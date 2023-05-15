@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "country": "Brazil",
+      "first_name": "Eve",
+      "last_name": "Holt",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "story": "Founder of the App, i am so excited to help everyone find and keep their companions healthy! keep your pets safe and if you need help, we are here for you!"
+    },
+    {
+      "id": 2,
+      "country": "Portugal",
+      "first_name": "Janet",
+      "last_name": "Weaver",
+      "avatar": "https://lh3.googleusercontent.com/p8-uNY8WK_RDI7V1NFAfW-sQ3Slq1P_k51Sj_b1Cjure_6QFlvQA-LnnZuAJG5fiYF0W2L6-nd_-1ku8lL1o2TIXmrUSO1YVb76YMqMn_YjOSSZnpv93e2HJIdtfWVkBqgBpx-MuC4-PHqIrg1VEwdy8ozTDxYDynBiCLyKjbJfftXxNniES9QI4Go2JVNxDFLlbdVnbiRXqZAYip_9p508HMquzWvWESl7q3FpaELzFa1NzTFG62Xlxf1RDFK_zJPCsfISOr05qNJehEj7EhK8NfyAsyOSgjePItuGZosggF4kqn-thBh0CaMc4c0tT917wUPJHe3YpUivR2JX83qH5RzB8y9UYNh9Nf72jU-tYNwVGVlGTF3PCjTw8T8tbEZfysjRKqFZZVqFJlhB9UluCERgaQsvxSdRw2Zd71DLsI_Lae9MggWJNJ_vdITXBlKjyrQmjYKL5ZavRmnOafCH_XsqQQSjAWXQT4Cyt_FLNZwR--NXB8HIZIH4aFfin-74OyLVS9eXsvnT-KNxYtfz0UrZOS084Tr0Pj3bVAeq2USMXiNbj2xxlzT8NJ47tQrfbjRT6TWozt_vX8h5Kv0UspDoEaP8Il9j6-n6soEMpyRplsLhsTowjW5Nony9cirN7yjqI84p9kU1YXUpUkvkuxA3q1PGUNvyrhGgvACVlDBPrUl2oH8FG-j5i7anj234COMAVINQVmTcvA3UqDNQIhJ8Qw2lQMXF2I5DntQAp1LypV94jBmxQejOffeBGL3W-R1JhEsMTHwWp2wF9eL7dzcRWH4vK0xQ-qyG6gmbWtINib2cHr4lVR7t6ufv0nuJ85sk2DqL9qZNrSNszeotREvbDqAQ4_wSeXHNqtbcNEva4fVoxFnEuNXu-LMEsrN6VlhlrLgcwkMq2AV_9nw1rp2Weli-DrTd2YtWZ1FEOmQ=w729-h486-s-no?authuser=0",
+      "story": "Thank you!! Using this app we were able to recover Dingo so quickly! I love my dog and thank you!"
+    },
+    {
+      "id": 3,
+      "country": "Japan",
+      "first_name": "John",
+      "last_name": "Wong",
+      "avatar": "https://lh3.googleusercontent.com/tfwuP_T4---DK_OuKsEL-e93pUccOSoEP--d4ISPqJ_6zT3SXD-sXV7CWwklRcWlR7JFlPJG2CmfzQ_T4lq00tYCXkJl5TBrzSOcrnN4NJGdeE-GqVdaFgOjMzewSvSp48aApwaquc26nPq7jvHYqD64WKkaNrO1X8zB0P4aKDHLDsXqGav-vNmFxJyLYePHD47g61tnXWcepwFxc_R9Vm2FkQzrl31zWNYiC8qB7V0P0QBlN1jvl4HLPz7buJ0Pab76NzBrALJAaFiMgTNjswOQXFBt2sV7Z445BJsmDVkuLeFGzHZDrJnlSqMlwAfoCXi5ehbJ4jCa2vxh-AWo5BxCAHNk72Ba2SgAIk2F6QVYDEveZdPlIcnHz3Rx_sv5wQHf2X-EsW7gPAzjAo-CKl5mTR4F7IWDpmC04gmbqcBSVLJU1N4G2awkJlxVFCGJ4cwfMbX7wF3dnNT4OC7RPhgSRAAgljvASRoy2HT_grxZZIwrEjOuIgwYEwYkWjofiAUUYYaoSXD3v-e4DO2rSmfNHmWZfyvGi4n0VdQ_MRG43TiD3GISVQBS3nHBNjkCbRcPMlZBONLSZzD7Wac_youUG7sjf5WlYgyM8BM87EgWrvyGafgrsFkd6dCLrcI8llhAVuR2umzRd08tjugkfI3QHFWEqDU2RTovU5AKo9Y6BB64RJHUYlWYAXQrSmWs6qckdTsfoQi3TwTfUmElyI9jaRdoxjsEihCCM2J1fapIj4muUeNmCS2mLYeM3OCg2JHpq1I9KgSe0LAcW8h-izaDcAReCoR4DGXjiWH_H0tBiHXzXXC5xPdBrl5U7Og8N92kgbF4uAVtoAQzSnCnGI23pnpIykEFxgr7dJsnOi66Qccmm-94Vnap9kvKrlFbF8CqM9yqrzXlYYIQGZprFHYCJ-erGWeiAXrVwRYDiUUxSg=w275-h183-s-no?authuser=0.jpg",
+      "story": "My boy was lost for a few days, i got on the bus and i couldn't reach him so he was left on the street. Using this app i was able to recover my boy  with all his medical records!"
+    },
+    {
+      "id": 4,
+      "country": "Israel",
+      "first_name": "Yoni",
+      "last_name": "Shalev",
+      "avatar": "https://lh3.googleusercontent.com/9C3Eu0lEuNfx41KSN3Wqd-97W51fjelVlwMNKU0YN21DZQbaZvoRfxg4kT9qxZFdYUTJjG_kQH4V7xxhLLGYoqsc3xRXLVcRp5xEI5DlI3-O0Ziexxq-jlDlThSqZA-jYuDCzmBVQYs93XpBHm9rltPWfIbd5gPYpHLFR822jhOMz5vCt44mz8-KNnGI8aDK8YHg9BnqQoU9PZZJujPoa0SNfrtksT1wQKdqmgTtANGpIc_Ifo5_B1CInFfZoDU4tDBf1WRGzDn_oKIxX8GNm-k_6HycjfKb9zw4Vkri-xC9RINMQvt5vqtlQLy8xwaQbEMr46USUnwKd3-Ni6Nhx7yCx536yneZKMgZ5i7sLBShB25be5xPpgM2d4xKnqKMNNpM1KMK8z3UJFMeVgqESgfTHHZwybqrhdjbCT6Kox_-4g38v-4EWlTCWS62V4m5Nh8eZH7Oljf12gTPSb--Cai0468S1autGUflJ1RtWbfMcnKZZ-pmUfKxAoj5GoCwuq7N1XkzT4yvt_uCti6iOhCULzgdrisCrIpZaum8xlZfO3TlLOEIyyrr8VfgeI9D827HIDNGOn4BEp7CHkD9Ye5K52Yxl6UXZYXkVLdGNCDLsxkqioxY9WuUkrcSV6rpKp7MXHl7OFQ8MKBiTf-V7V1CTZwoRQ6Bzyp8z9D-V7fwep-lwSraiV3i6DWrbUmEUo0X8DjnWh9dX3OchKcpYJRMe-GvbSH1CqTXZ9V7hkgnpau0jczMEgBihE4Owue2eHdGcP-sFeG1eZ_ugLogK5TfN6qynQ5YPSOPRN4QWZ2LEsGDTaUHFR4NqioDqeAsrPtuo2aYmZ1Gr6V7jyWyEFx_CaWkclZ8-0i5JlvTJ2P8ErO5hkVdbCE4hmx1P_v9L1TGg6iYwmcxJEPvDN3TtT1bHZoZfoNdnKlpNumwYUxNDw=w729-h486-s-no?authuser=0.jpg",
+      "story": "We lost track of our dog for a few days, using this app we were able to find him! thank you! "
+    },
+    {
+      "id": 5,
+      "country": "U.S",
+      "first_name": "Charles",
+      "last_name": "Morris",
+      "avatar": "https://lh3.googleusercontent.com/WxLg7AOXklOJCdziwyQlmOPVwwsZ-2IczC4vhVsThi7wT0pE-56dLawnuXDYmI79iPf17Bjo_eC8lPwENx581FsAWZRFu1H8Lr3LTNgmJWq7Ejs4S6YvwrJY4ZHrAis_t50dPZAJC13j_37VyqlOPB_xcDseZOFN7CbqJW3SIE-GIsNUckM-kS6fVp3bYYYnYeb9KHphjuBDoOSA0KZdgcHjm0ioLu3f10OLp9o96jnJN_rsEQt6pjXE1AkCMh3w9yRmR3tqXKU07Qvx8Z7tmI_eILW3ZHkkvHi7Nm1DnmVUiyTobVqSrHFFS9xlhmF1d7jPfYhri5kCKwZBn8Y_JPCGbjAOr6qsGIRzrRefU-DWorRrWhGuacZsv5UFxFBq3XSt40cf-zSnvQzB34MFsLnEjhirQgu_kXCu06n7nyD3IVHeEKzizTc5rSDpvA_a_Jr1KurQuCDvscnnJPaJQfqaYCQtLiLHFK3igX8F3kkpTfddYIsla9gqsWBBG8sc_S1RZ_H51Q7JCGA4BUXSctMsK-lEK-0KA03zIEmYd5fUGlCNFcdbzRWstTqI-fgnlZiJICyCPBuKMQoxMBdYkpelBcTlU7YPvd-Dev23WHdajSryDZjONa8s_OGakE4YDiXEgxjl7tTIN93OyKOxeL_qD-htuCL5SPLhIpo-nfs2FJ9XoEA7ZdJlUdIENXT1furuqDT7Y6-RC21vXadM3q7NRgWYynGDvUPtDTSOgHfurFzl4-qcKn6u7Wg0m2qyXmQeE8MiIullkqHNS6uOn4YwARPo91i9TjARtKQ4IJcMb8otCxpGrlk1-xE01CW1KIauCIO8vCsK_3ClrRfCwYqhK9qikAHD3W0LeRfz-Laf1LxFpTtNg-SVM2yrxvzLdcLqw_Gp-hmufhsoSOholid9JN6-0AHMA8OklZRnXpmpuA=w275-h183-s-no?authuser=0.jpg",
+      "story": "I had to take my dog to a new Vet, and my old vet refused to send me his medical records, thank fully i always kept records on this app so i was able to get my dog the treatment he needs with all his vital information about vaccines and operations previously undertaken"
+    },
+    {
+      "id": 6,
+      "country": "Spain",
+      "first_name": "Tracey",
+      "last_name": "Ramos",
+      "avatar": "https://lh3.googleusercontent.com/pAfdjJ48M_1znyFIx01SaoSGe9Y2ref4Fz4HWVwwusNRIf4uTL7CVzKP7lW-qMsgeAgmWAmea7v1dhMFeeBCV28_eup6OB96Jae5xbUuouVl0zgOHEgCB8pbwDsfMbs9krbAUxSjXZsvZWAN0jfZgOewL9mHt9u9ysKKbh4qkxjRYdcEZhey0G_AqtiNzPN6MBkThGH4CRYxXXjpn6clGxQAAg_u4TT77zMbPXDsfZG8dcjmhfzYrDoQfmyLvHgDCxNrlmeI5xl-wyxACw7Y81aY6w9DGap2DgBBr2YAE3RKmzph1eFFneyAJ4Uh_y_j80KpKVEwCx8YvcxDfGI4uw3zN0rQBLRViPWyg8hkNEVtpKmrQPKfl_7Yp_NKqEkwTNOEltBAv5keYFzq5xjMM45nKu8ucuZ3omHAYNy04wtA94GijTI8Dx_RnLIinLpd5fPPZbAnhCQF8ZCSxn7tv_0ZKT1R8rVnt9GFGj3kCt76ERe1cS6KfjMxuyiQfsqQ92pQ06RGEn0xwt5QJDWnHaMTYh-FgjhDtm3ek8lw0t7hO17eXwdWtrwUqfNuJUWp5iR92-pyRQwNIfCUIXaCFEXEitI560QLRVUzUDaXRt54bxGcEnTOTpjCjbP2N6ZYwctKNHdkx-rIbdtW0AK7sraLq9sQrjtDSJc9pZ4pvtT36857gaI1eIAhpwhyHA1WGPu-Xh9FQKwjDLUi97N35XrgP42X336WLYXEqcIVN8NY6aFrLrsarXthTeQe-mF1WCn2W5_UDR8cYdIEk-SWWJ8b-gjEVQT53X6qd75Db5tGcWSmawxlLD-PsMHTgbbzCuP9mt0qvH-NVT7xKISFNOm_Z9-WHaCANU9iSUxDPYdKJPsZh0Nwzd2G2bHR6muXZM_mGtCQXN6JWuisoNZ7UJCEd5ZHmfR3sZUtkAOHzwTPvQ=w275-h183-s-no?authuser=0.jpg",
+      "story": "Thank you, i have kept medical records of my dog in this app i am so thankful"
+    },
+    {
+      "id": 7,
+      "country": "Argentine",
+      "first_name": "Trevor",
+      "last_name": "Mcclin",
+      "avatar": "https://lh3.googleusercontent.com/OCIojrNfnVpdKFC74Z_FlcEVSxV0B-7XvaPPIUSrLv4VeRTshEstv7OrasO2sNBCXp_-_tu5iWmiXSyV7Jd7P79b-X5WLHLwAcGypsh0x4NNcpNxlcEJXyZgfhR2Ia_hBFvnmtNRvJlKU91s8RCpEtl_tAhLl0fhPwR7W0woeVY1gP7pR04dFAdaPfz0Jmi-pV30lAAS1G6ddO2hspS9G7OrBC25BiYCcjmOb_2xpizuKRN20WZPO0p9f3v4_B15KzEOu0HUvy9i3DLdfu_sLvEk1pdNTl7bejVsp6vrxX5V1CWwH8SqyzLVR53GA3gyp9lw1eG_-2qQRoi4p_FojaFli47D5Vr77QPitQIOJHiG2ELH2ahEYiVeppsXnKHXfcrN5sbBfuNj6z9alkD1qyvlZ9Z9RPJQu6x5mkpRo1ofmwzTIXTCKkggFhFHDJrHOcumixJ3k9uLZyKHP-AeBxzaX68YvUg_M7AB_ZePquaQTqJl3Zf4p2meKjCbXBEHfoFlc6DS6ExyDjbKP0LvEUT0P6BnNA2dRpPSmQ6XJcDWoTYH2f69eSPRE3AivKumrQ_A1xYPWeAcOSvpaIW3N3gyO-iGUfCModlsIyROZwUdfTkYlSct-lGe5k38T1xxXOmTkyC6F3Cqm04vS8NM5IHlhbudgKv0YlzBN4gAMw5p1zCGn5u3Hej4ZJHu_U0vthlOfIstI4xaK6la4aAsYOHon_rfRo-Q0NIXbZkzI0yeUiN6tdxg3Bz6iniG96oqURJbURtIg3KsHCkIa-0b6bhLXnQtpc-qT0ocZK6KxvZtv2rCzCU8dZlEpzgrajDjlIqKP4SCTMWUsmP8anWfnejNfhDc41gRyozJfpNymlH_5tY-W7j9vXwaUYZ2Bk_kP6hIkE4UZ-bbLIHHJaJvs8WSh4OuQR4bqKKyxEKGcANRUg=w300-h168-s-no?authuser=0",
+      "story": "We went through a massive car wreck and luckily my dog survived unscaved, i was so glad to know that once he was taken to shelter, the caretakers were able to locate me and give me back my boy as i was recovery in the hospital"
+    },
+    {
+      "id": 8,
+      "country": "China",
+      "first_name": "Jack",
+      "last_name": "Ma",
+      "avatar": "https://lh3.googleusercontent.com/l6LAl-t5fiXdrIOyKCp3Iw-yvRd0yI_ItsEOanfArpmu8IeNeUMKahp8oz_fHFFAVEsVP8vYYC-R-bsODa3XFdkNZM_7tEUmCyVWy-weQwF8Qg3unrdMLy2r9476IARMn9KHTu9GiKOHV9CkVYpX6O7502OakHmLbz_G6iUcKF152ZCtWzCqXXh_0aBC8qetDgVAlUaQ7U3tGZjhCmCzp50SEngV6Q09R_E_NYp28vM4OARj9wmJuUZGpoJ7VkW7g1DHoc-OkkU6HbPhij1aRMNtcIWfFE-fZWNT__l0emHtlpcHd8hZDMoNazz_cbBIQ7dfe0MuhqKdMuNJ8cHRSByVZ_ddJ3OkrStBksoPvv3PiKxuhZqzxDqCAnQK4po_IIWjpU486buGiBfFpTKD5o_5B9K5HWvy9u7PYPreZ91frktrKpe4zoiRngfi0TuYr2zPB1M2ZcihT6GLfpdwYyVhcm6vDLAjOVlYnpi0E8h_uA_xDBRMQUsV-5LMw4hhUArxFzPGmTnGEr7RcMbDYJLegEiB7ne427OzvENHIujinSvyfmgMWiIg0itAPafORVs8VUPH1Okg5YXVM-JLhPqAkHMvYEhhhP12vRPD8QBBLcuDRGpmcgqyQNRVzFEmWM6nHYR3hnVViI0Xc6ju74-Y6EWmL3JThSTyLxXU1DY3fW8ElwzaReHTDT8BcstCAkL3aWKBq8Kl99VpdHAUrfKMqicbreF5nRr6rVBf5GmdSV9Cdg7-paNvm1jEDItDxEuFedrY4UM7EDImgBLkvT4gA2dVLNkQfl2heBdN1DukoslEKxflo1SlQjdZyv_WadM7e2nb5IrNQfIjY-7iYTz2BT-LWZqYdSoVH5OH9RMrZyCeE38Ktgmb6Whw6TwGL3MCmP-VO4K5StE5qirg0b4Qc9jRKqM8UL7UEkBLElsdxQ=w275-h183-s-no?authuser=0",
+      "story": "Thank you - i really lost my dog for a day and i couldn't find him, thankfully using this app my dog was located and quickly returned"
+    },
+    {
+      "id": 9,
+      "country": "Finland",
+      "first_name": "Timo",
+      "last_name": "Tolki",
+      "avatar": "https://lh3.googleusercontent.com/_WO0vcKKaFJMuI7aRd4CkUpgGInzuu6YTNlhMwBbjrhKWJij1zBch9gf9PvasVCdemJQ8HGYaW2heCjq0wiqOROEkoKhtR10f2cfjJiIzI-FKo_xDeQHLLyJhOYQf9346nshnVU1m1agHMZmo3nGpbomboMDqeV-7Zfpkk0qMio_cj33x0TiTO9TSTpXHJlU8lVR9Kl67y2SXoco0hQ49PotuPNmd3NmYuwj2hRloRYBlnydon0TvdwW9CGfFDYYs6m32lPebzXcollcVygYrWeBnA77tqlB5jnZ6N3fqaGR2JBtw6MscKk1FkZgKOjSqGu5x189G5zSgRQjzXJV-pNW3zo5vJsxGyKZnv6Q-TWbxKr9yDtppy3rsGyp6QZ0OuFUI5rBsunY56vmz1GfnGEECWqE4ys50rDhizWus4IjeRcg10Km04AxcdQCKodNyPNgC8OquUQd9g6VnmxRv8TajIUDJZbBt5lF8mH4bgi4e3iHwvOS6YifgfB1zkNiOg1srAKPNEhsGPQsoIxVQWbpu0mrd3YE2IlxrUJnCRbdmyQpSO-W1HjrAN2V84yKtdHYwp7rgS2i3MLWkAFQueDuJ2O9dv_zHe8Sm5ZaY1x3CI5Gc2RF0VZMsHbKQ9i_dTO5uIHxZkjEfyUxPn3zf1c4Lsm2WYrMlYudnOWAkg3ubRoSa11Qa4KpO8_1RwKqRoBjqhJCeGQ5Ul4idOHJTVEh66uiRM7s4amUt4_oWx9rQiDvEA9Xi27jbOLMwBf7eCfqnoq8xa_dCkK8kABkM5CvmvXjaalIr8pJakr3zY_ECzvQI1YAg56vqNaRpdPMUSCFbqPhug0eGjh7eozdziZBkg6KSoJ49osFdOlQ1x8eugND4ugDgOMCzPyzH6O32FxRUmn8Lxmx9LZtvney5tVhSDhjsFkk_h5wj8W8bLg7hQ=w275-h183-s-no?authuser=0",
+      "story": "We found a lost dog and used the app to identify the owner, we were able to contact him and return him to the owner!"
+    },
+    {
+      "id": 10,
+      "country": "France",
+      "first_name": "Pier",
+      "last_name": "Charles",
+      "avatar": "https://lh3.googleusercontent.com/gBBICOaQypH-hQU_FuueJmQg3lKaFB6ZMPnNdOad-X7ZGhEHS8y0y5t0Eawn7xQaLlw7h6dc2gLPHNHMhJ00I7w-RiyKBBID8bW6aJx3KBcMSXJ2EpLYTXGUhO_twfgJ-GdV6D1YZMCMmvrLZoHfHWCXdbaqyz9i8EiYOqkTy4C2ru56pMJYG-6eTlt0BvtuZyDWywvhwRDBnlM6upeFvYM7ODMUDcLGL90b__nDfIWtI_3d-eShsqGPScyPK-UuPOvug57ISaku8EwgM-0Fop6N6_dD6HMqCUb_tZgw4u89mVOuohvLZbj5NJwIOv5qJjot19kyiRsr5Tc_hqKGNiW5VCCzdMnsLkRY7kQCdQzi9kQO7XCzRluqPTTXceAMx9qUfMwiJE4SD4Nbfy9832eehp5X8pL9CcQjFQPv4qAfbEiVFZ9JZSnZQQLbZqJgS4Mtmu07ZwkcyzFbXsRDsWKQiLlNcQZRAh74Tl2K2Us3whEj8AoUtFX6PSJCr4sWMYPOxn1hk0UrgQ_lvX4GqGSxyYjgiDHoVkTDjkAQpvM19BpFNeNOsJXI8jkDWHZmQs1MF4kWT5B8hLom_z9LEIErIYU9AZuMc85YVxdZN2VezLE5XcNRNtDdp4Gl8jRWnOzmovQoo012QTu-WgXxG6PMQg2i7NRuGON7xGXkJ5RbFQfYSRP-Xf7WMvmkDfltf6-Q4hiJZUZt_yggEKTCLTQQbWqSu3RkJ_qoVYRwZiGKW7YciVoz2h1WAyvaNP21nr-BMCZ6g6NpMuO_D-CU_pWQkjOK-A2fSFuoZKjDiUfLuJUslsr7w9jqxAkNrCXBeJo8YZek9vNxWyOvWfSG7U8LETrOTujL8qvTsqsk8BrDFqrOuR4zsJQ1-52UxX95y02EtTu_5hlO1v8Ka3_aqsP2gX17XYUrpMRZX2qof_ObWQ=w284-h177-s-no?authuser=0",
+      "story": "Thank you, my dog was trapped and thankfully now he is safe thanks to this app!"
+    }
+  ]
+}

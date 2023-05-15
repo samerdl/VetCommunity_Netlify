@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["src", "BackUp/Home.tsx", "BackUp/MainPage.tsx", "BackUp/Aboutpage.tsx", "BackUp/Formpage.tsx", "BackUp/Pages.tsx", "BackUp/codeDump.Tsx", "BackUp/onTextPlace.tsx"],
+  "references": [{ "path": "./tsconfig.node.json" }]
+}

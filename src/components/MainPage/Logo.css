@@ -1,0 +1,14 @@
+.Logo {
+        border-radius: 4px;
+        padding: 5px;
+        width: 35%;
+        height: 50%;    
+        position: relative;
+  
+
+}
+
+.LogoDiv{
+        justify-content: center; 
+        display: flex;
+}
